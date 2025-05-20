@@ -1,2 +1,2 @@
-# Proyek-Akhir
-Lilie (79), Nailah (88), Intan (89)
+# Proyek-Akhir-Manajemen-Pasien
+Lilie Breezea (79), Nailah Hana (88), Intan Ramadhani (89)
